@@ -1,0 +1,30 @@
+.chat-space {
+    height: 300px;
+    border: 1px solid darkgray;
+    overflow-y: scroll;
+}
+
+.uname,.chat-space,.sendText {
+    width: 300px;
+    border: 1px solid darkgray;
+}
+
+.chat-message {
+    margin-bottom: 10px;
+}
+
+.uname {
+    height: 30px;
+}
+
+.sendText {
+    height: 45px;
+}
+
+.uname, .sendText {
+    font: 13px "Trebuchet MS", sans-serif;
+}
+
+
+
+
